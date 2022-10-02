@@ -1,8 +1,9 @@
 # Madison's Metagaming
-A content mod to add stuff that should already be in the base game. Will be updated sporadically as I find something I want. 
+  A content mod to add stuff that should already be in the base game. Will be updated sporadically as I find something I want. 
 
 ## Content
-
+- Feats
+  - [Fey Foundling](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fey%20Foundling). PF1e RAW says that this can only be taken at first level, but we use the honor system :)
 
 ## Installation
   Install via [ModFinder](https://github.com/Pathfinder-WOTR-Modding-Community/ModFinder), or manually via [Unity Mod Manager](https://github.com/newman55/unity-mod-manager).
