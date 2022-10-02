@@ -17,7 +17,6 @@ using System.Collections.Generic;
 
 namespace MadisonsMetagaming.Components
 {
-
 	[AllowMultipleComponents]
 	[AllowedOn(typeof(BlueprintUnitFact), false)]
 	[TypeId("67e7bb3956614e82bc0e6425e8723b4f")]

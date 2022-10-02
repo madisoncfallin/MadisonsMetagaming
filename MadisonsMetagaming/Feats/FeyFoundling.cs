@@ -1,10 +1,7 @@
-﻿using BlueprintCore.Blueprints.Configurators.Classes.Selection;
-using BlueprintCore.Blueprints.CustomConfigurators.Classes;
+﻿using BlueprintCore.Blueprints.CustomConfigurators.Classes;
 using BlueprintCore.Utils;
 using Kingmaker.Blueprints.Classes;
 using Kingmaker.Blueprints.Classes.Spells;
-using Kingmaker.Blueprints.JsonSystem;
-using Kingmaker.Designers.Mechanics.Facts;
 using MadisonsMetagaming.Components;
 
 namespace MadisonsMetagaming.Feats
