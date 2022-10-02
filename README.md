@@ -12,5 +12,5 @@
 
 ## Acknowledgements
   - WittleWolfie for his incredible [Blueprint-Core](https://github.com/WittleWolfie/WW-Blueprint-Core) and all its documentation.
-  - All the moders who came before and contributed to this incredible community.
+  - All the modders who came before and contributed to this incredible community.
   - All the folks on the modding channels of the [Owlcat Discord](https://discord.com/invite/owlcat) for the help and sanity checking.
