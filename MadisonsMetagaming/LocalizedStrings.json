@@ -10,5 +10,18 @@
   {
     "Key": "FeyFoundlingFeat.Description",
     "enGB": "Whenever you receive magical healing, you heal an additional 2 points per die rolled. You gain a +2 bonus on all saving throws against death effects. Unfortunately, you also suffer +1 point of damage from cold iron weapons (although you can wield cold iron weapons without significant discomfort)."
+  },
+  {
+    "Key": "FavoredOfTheGods.Name",
+    // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
+    // links to encycolpedia pages.
+    "ProcessTemplates": false,
+    "enGB": "Favored of the Gods"
+  },
+
+  {
+    "Key": "FavoredOfTheGods.Description",
+    "enGB": "Placeholder text"
   }
+
 ]

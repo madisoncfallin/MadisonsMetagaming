@@ -56,6 +56,7 @@ namespace MadisonsMetagaming
           Logger.Info("Configuring blueprints.");
 
           FeyFoundling.Configure();
+          FatesFavored.Configure();
         }
         catch (Exception e)
         {
